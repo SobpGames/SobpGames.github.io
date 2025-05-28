@@ -293,3 +293,4 @@ video.unrulymedia.com, 3881266972, RESELLER
 videoheroes.tv, 212450, RESELLER, 064bc410192443d8
 xandr.com, 13293, RESELLER, f5ab79cb980f11d1
 xandr.com, 15769, RESELLER
+lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
