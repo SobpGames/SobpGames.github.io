@@ -306,3 +306,4 @@ video.unrulymedia.com, 389957698, RESELLER
 lijit.com, 558045, RESELLER, fafdf38b16bf6b2b
 bidmachine.io, 113, RESELLER
 zmaticoo.com, 5135063, RESELLER
+improvedigital.com, 2609, RESELLER
